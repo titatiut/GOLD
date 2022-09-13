@@ -1,2 +1,1 @@
 # GOLD
-# GOLD
